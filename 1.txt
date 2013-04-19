@@ -1,0 +1,12 @@
+#linkid=71652;roadnameflag=0;brunch=0;dispclass=11#
+#linkid=71653;roadnameflag=0;brunch=0;dispclass=11#
+#linkid=72918;roadnameflag=0;brunch=0;dispclass=11#
+#linkid=72919;roadnameflag=0;brunch=0;dispclass=11#
+#linkid=72920;roadnameflag=0;brunch=0;dispclass=11#
+#linkid=72937;roadnameflag=0;brunch=0;dispclass=11#
+#linkid=71660;roadnameflag=0;brunch=0;dispclass=11#
+#linkid=71234;roadnameflag=1;brunch=2;dispclass=3;roadname=青年大街#
+#linkid=71238;roadnameflag=1;brunch=1;dispclass=8;roadname=黄河大街#
+#linkid=71434;roadnameflag=1;brunch=2;dispclass=9;roadname=三好街#
+#linkid=72534;roadnameflag=1;brunch=4;dispclass=4;roadname=五马路#
+#linkid=71002;roadnameflag=0;brunch=2;dispclass=4#
